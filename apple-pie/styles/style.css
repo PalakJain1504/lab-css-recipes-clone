@@ -14,7 +14,7 @@
   
   header {
     height: 800px;
-    background-image: url("D:/Palak Jain/web-dev/lab-css-recipes-clone/apple-pie/images/apple-pie.jpg"); /* Adjust path if needed */
+    background-image: url("D:/Palak Jain/web-dev/lab-css-recipes-clone/apple-pie/images/apple-pie.jpg"); 
     background-size: cover;
     background-position: center;
     display: flex;
